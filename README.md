@@ -1,6 +1,9 @@
 ## Bem vindo ao meu perfil 🦇
+
 Meu nome é Guilherme Marianeli
+
 Sou estudante do Ensino Médio e do Alura
+
 Utilizo esse espaço para compartilhamento dos meus projetos
 
 <!--
