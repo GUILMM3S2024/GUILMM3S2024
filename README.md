@@ -1,4 +1,7 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🦇
+Meu nome é Guilherme Marianeli
+Sou estudante do Ensino Médio e do Alura
+Utilizo esse espaço para compartilhamento dos meus projetos
 
 <!--
 **GUILMM3S2024/GUILMM3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
